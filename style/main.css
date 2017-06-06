@@ -3,7 +3,8 @@ html, body {
   margin: 0;
   padding: 0;
   background: #faf8ef; /* цвет фона*/
-  color: #776e65; /* цвет обычного текста*/
+  /* color: #776e65; /* цвет обычного текста*/ 
+  color: red;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-size: 18px; }
 
